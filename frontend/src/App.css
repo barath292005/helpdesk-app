@@ -1,0 +1,19 @@
+.app-container {
+  padding: 20px;
+}
+
+.navbar {
+  background-color: #1e293b;
+  padding: 15px;
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.navbar a {
+  font-weight: bold;
+}
+
+.navbar a:hover {
+  opacity: 0.8;
+}
